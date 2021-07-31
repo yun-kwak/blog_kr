@@ -4,8 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+Working on AI, Neuroscience @ Seoul National University.
+Randomly post thoughts and recent progress related to AGI.
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+Global version of this blog: https://yunhyeok-kwak.github.io/blog/
