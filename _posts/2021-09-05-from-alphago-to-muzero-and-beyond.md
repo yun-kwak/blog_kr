@@ -6,4 +6,3 @@ categories: [RL, Model-based, AI]
 title: (습작) From AlphaGo To MuZero And Beyond
 ---
 
-# (습작) From AlphaGo To MuZero And Beyond
